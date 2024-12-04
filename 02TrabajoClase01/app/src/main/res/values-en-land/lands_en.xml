@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mensaje">Landscape in English</string>
+    <color name="textColor">#241549</color>
+    <color name="backgroundColor">#9D86E8</color>
+</resources>

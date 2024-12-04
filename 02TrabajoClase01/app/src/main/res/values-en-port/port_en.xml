@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mensaje">Portrait in English</string>
+    <color name="textColor">#FF005555</color>
+    <color name="backgroundColor">#84E684</color>
+</resources>

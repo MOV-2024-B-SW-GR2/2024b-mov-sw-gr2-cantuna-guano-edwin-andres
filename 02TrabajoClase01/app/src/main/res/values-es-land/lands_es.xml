@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mensaje">Paisaje en Español</string>
+    <color name="textColor">#EBD798</color>
+    <color name="backgroundColor">#623D19</color>
+</resources>
