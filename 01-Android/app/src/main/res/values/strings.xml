@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">gr2sw2024b_eacg</string>
     <string name="saludo">Hello Friends</string>
-    <color name="saludo_color">#7A7A29</color>
+    <color name="saludo_color">#AF192F</color>
 </resources>
